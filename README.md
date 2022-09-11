@@ -6,37 +6,15 @@ Just a simple watch face for your bangle.js 2 that shows you everything you need
 
 ## the clock face
 
-<img src="./pdc_screenshot.png" alt="screenshot of the PDC watch face" style="float: left; width: 225px;">
+![screenshot of the PDC watch face](./pdc_screenshot.png)
 
-<table style="float: left;">
-  <tr>
-    <td>clock with 24-hours and minutes</td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td>second bar with 60 increments</td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td>current date</td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td>current heart beat with a representing red bar</td>
-  </tr>
-  <tr>
-    <td>current steps with a representing green bar</td>
-  </tr>
-  <tr>
-    <td>current battery charge with a representing blue bar </td>
-  </tr>
-</table>
+| clock with 24-hours and minutes |
+|---|
+| **second bar with 60 increments** |
+| **current date** |
+| **heart beat with a representing red bar** |
+| **steps with a representing green bar** |
+| **battery charge with a representing blue bar** |
 
 ## fonts of the pdc watch face
 
