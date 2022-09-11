@@ -6,7 +6,7 @@ Just a simple watch face for your bangle.js 2 that shows you everything you need
 
 ## the clock face
 
-[!screenshot of the PDC watch face](./pdc_screenshot.png)
+![screenshot of the PDC watch face](./pdc_screenshot.png)
 
 <table style="float: left;">
   <tr>
