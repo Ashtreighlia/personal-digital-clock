@@ -8,7 +8,7 @@ Just a simple watch face for your bangle.js 2 that shows you everything you need
 
 <img src="./pdc_screenshot.png" alt="screenshot of the PDC watch face" style="float: left; width: 225px;">
 
-<table>
+<table style="float: left;">
   <tr>
     <td>clock with 24-hours and minutes</td>
   </tr>
