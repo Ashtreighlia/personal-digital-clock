@@ -1,0 +1,6 @@
+require("Storage").write("personaldigitalclock.info",{
+  "id":"personaldigitalclock",
+  "name":"personaldigitalclock",
+  "type":"clock",
+  "src":"personaldigitalclock.js"
+});
